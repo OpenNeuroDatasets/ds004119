@@ -97,3 +97,9 @@ Note: The questionnaire data is available upon request from [cancta.net](https:/
 for Current Session, Simulator Sickness Questionnaire.
 
 **Experimental Location:** Science Applications International Corporation, Louisville, CO
+
+**Note 1:** This dataset has corresponding runs in the BCIT Calibration Driving ds004118 during
+which a the 15 minute driving task was performed prior to this one.
+
+**Note 2:** This dataset has a corresponding runs in the BCIT Baseline Driving ds004120 which
+were conducted on the same subject during the same run, counterbalanced with these.
